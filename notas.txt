@@ -1,0 +1,12 @@
+Juego de penales
+https://studio.code.org/projects/gamelab/3KOTfpaDy78DH6lKenAYR2zYIQED2myFfL0hNfYNTq8
+diario personal
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/9VNfgvEjG2zOzG8hXg6SIYjyTatsU6siJSDXe31ieN8/embed"></iframe>
+juego de la nave espacial
+https://studio.code.org/projects/gamelab/RaGuPuOqImzp8qM3_9rQd6mXGZJgdVVFJbRhj98ypUw
+juego de regateador
+https://studio.code.org/projects/gamelab/-T2-7WOSs1nLnUtOVAWmSekod5jRDzPDa0MJNljoYLE
+peso en diferentes planetas
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/J5oJdEULnMKEfnRVXOk2dAsfii-PCZHLAJGXxU7E2Ts/embed"></iframe>
+BrunitoBot(chatbot)
+<iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/3bd59223-537d-40e1-a32b-a2e426f1867f"></iframe>
